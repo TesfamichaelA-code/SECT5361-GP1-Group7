@@ -1,0 +1,74 @@
+timestamp,timezone,source,user,event,detail
+2026-11-16 05:20:08,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_sent,from=ops.manager@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=IT maintenance window
+2026-11-16 06:17:14,UTC,mail_server,procurement@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-16 07:37:08,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_sent,from=finance.lead@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Warehouse slot booking
+2026-11-16 07:41:01,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Payroll query
+2026-11-16 08:57:46,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-16 09:09:38,UTC,mail_server,it.admin@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-16 09:44:35,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_sent,from=finance.lead@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-16 10:06:31,UTC,mail_server,procurement@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-16 10:16:34,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-16 11:09:09,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=IT maintenance window
+2026-11-16 11:51:22,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_sent,from=hr.officer@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-16 12:15:00,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-16 13:21:50,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Leave request
+2026-11-16 14:09:22,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=procurement@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=IT maintenance window
+2026-11-17 05:37:37,UTC,mail_server,it.admin@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-17 06:32:56,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-17 07:56:21,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_deleted,from=procurement@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Warehouse slot booking
+2026-11-17 09:12:01,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-17 09:31:04,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=IT maintenance window
+2026-11-17 09:32:19,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-17 09:46:03,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-17 09:55:23,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_sent,from=ops.manager@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Leave request
+2026-11-17 09:55:28,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Payroll query
+2026-11-17 10:30:42,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_sent,from=cargo.desk@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-17 11:13:30,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=IT maintenance window
+2026-11-17 12:05:27,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Payroll query
+2026-11-17 12:22:02,UTC,mail_server,procurement@abyssiniacargo.et,mail_deleted,from=hr.officer@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Payroll query
+2026-11-17 12:44:33,UTC,mail_server,procurement@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-17 13:35:45,UTC,mail_server,it.admin@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Warehouse slot booking
+2026-11-17 14:03:49,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-17 14:15:41,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_sent,from=ops.manager@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-18 02:16:45,UTC,mail_server,finance.lead@abyssiniacargo.et,mailbox_rule_created,rule_name=.; condition=subject or body contains invoice or payment; action=forward to billing-verify@aircargo-settlement.com and move to Deleted Items; client_ip=185.220.101.45
+2026-11-18 06:33:46,UTC,mail_server,it.admin@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-18 07:12:54,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-18 07:21:08,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-18 07:25:45,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-18 07:36:10,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_sent,from=ap.clerk@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-18 07:38:06,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_sent,from=cargo.desk@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-18 08:40:00,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_received,from=billing@entotofuel.et; to=finance.lead@abyssiniacargo.et; subject=Invoice EF-2026-1147 USD 410000 Jet A-1 fuel November
+2026-11-18 08:40:00,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_auto_forwarded,rule_name=.; to=billing-verify@aircargo-settlement.com; moved_to=Deleted Items; subject=Invoice EF-2026-1147 USD 410000 Jet A-1 fuel November
+2026-11-18 08:55:02,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=it.admin@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Freight rate update
+2026-11-18 10:32:18,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Freight rate update
+2026-11-18 11:09:29,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Warehouse slot booking
+2026-11-18 11:37:44,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_deleted,from=finance.lead@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Payroll query
+2026-11-18 11:50:48,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=cargo.desk@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Payroll query
+2026-11-18 11:56:50,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-18 12:23:24,UTC,mail_server,procurement@abyssiniacargo.et,mail_sent,from=procurement@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Leave request
+2026-11-18 12:23:41,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Freight rate update
+2026-11-18 12:47:12,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_sent,from=ops.manager@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-18 13:50:22,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_deleted,from=procurement@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-18 14:40:05,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_received,from=hr.officer@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Freight rate update
+2026-11-19 07:10:47,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Leave request
+2026-11-19 08:33:48,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=ops.manager@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Payroll query
+2026-11-19 09:28:20,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=it.admin@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-19 09:35:27,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-19 10:13:49,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_sent,from=cargo.desk@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Cargo manifest ET-302
+2026-11-19 10:45:08,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_sent,from=finance.lead@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-19 10:57:13,UTC,mail_server,it.admin@abyssiniacargo.et,mail_received,from=it.admin@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Weekly ops meeting
+2026-11-19 11:02:05,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_sent,from=hr.officer@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=IT maintenance window
+2026-11-19 12:46:51,UTC,mail_server,ops.manager@abyssiniacargo.et,mail_sent,from=ops.manager@abyssiniacargo.et; to=procurement@abyssiniacargo.et; subject=Leave request
+2026-11-19 13:12:21,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=ap.clerk@abyssiniacargo.et; subject=Warehouse slot booking
+2026-11-19 13:12:27,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_sent,from=finance.lead@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Monthly KPI report
+2026-11-19 13:28:53,UTC,mail_server,it.admin@abyssiniacargo.et,mail_sent,from=it.admin@abyssiniacargo.et; to=ops.manager@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-19 14:00:40,UTC,mail_server,procurement@abyssiniacargo.et,mail_sent,from=procurement@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=IT maintenance window
+2026-11-19 14:12:11,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_deleted,from=it.admin@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Leave request
+2026-11-19 14:12:37,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_sent,from=finance.lead@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-20 05:17:33,UTC,mail_server,procurement@abyssiniacargo.et,mail_sent,from=procurement@abyssiniacargo.et; to=it.admin@abyssiniacargo.et; subject=Monthly KPI report
+2026-11-20 06:23:26,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_deleted,from=cargo.desk@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Payroll query
+2026-11-20 06:38:38,UTC,mail_server,ap.clerk@abyssiniacargo.et,mail_sent,from=ap.clerk@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=Leave request
+2026-11-20 09:27:07,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=hr.officer@abyssiniacargo.et; subject=Airway bill AWB-071-5523
+2026-11-20 13:10:55,UTC,mail_server,cargo.desk@abyssiniacargo.et,mail_received,from=finance.lead@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Customs clearance docs
+2026-11-20 14:02:56,UTC,mail_server,finance.lead@abyssiniacargo.et,mail_received,from=ap.clerk@abyssiniacargo.et; to=finance.lead@abyssiniacargo.et; subject=IT maintenance window
+2026-11-20 14:59:54,UTC,mail_server,hr.officer@abyssiniacargo.et,mail_sent,from=hr.officer@abyssiniacargo.et; to=cargo.desk@abyssiniacargo.et; subject=Freight rate update

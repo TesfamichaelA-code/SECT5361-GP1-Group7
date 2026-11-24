@@ -1,0 +1,10 @@
+# Report, slides and evidence ZIP are submitted separately, not source code
+*.docx
+*.pptx
+*.pdf
+*.zip
+
+# Scripts and dependencies used only to build the report and slides
+_build/
+
+__pycache__/
